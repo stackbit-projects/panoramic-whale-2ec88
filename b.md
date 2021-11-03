@@ -6,7 +6,11 @@ header:
   action:
     label: lorem-ipsum
     url: lorem-ipsum
-sections: []
+sections:
+  - type: object_cta28cgpnz
+    section_id: lorem-ipsum
+    title: lorem-ipsum
+    services: []
 ---
 ## Lorem ipsum
 
