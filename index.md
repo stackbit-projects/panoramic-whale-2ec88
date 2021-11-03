@@ -2,9 +2,7 @@
 layout: home
 header:
   title: Bienvenido Diego Garciarebollo Rojas
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  text: 'Dentro '
   action:
     label: Find Out More
     url: '#about'
