@@ -2,7 +2,9 @@
 layout: home
 header:
   title: Bienvenido Diego Garciarebollo Rojas
-  text: 'Dentro de esta experiencia entraras a un tour 360° '
+  text: >-
+    Dentro de esta experiencia entraras a un tour 360° donde conoceras las
+    innovaciones de los productos Kimberly Clark
   action:
     label: Find Out More
     url: '#about'
