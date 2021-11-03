@@ -2,7 +2,7 @@
 layout: home
 header:
   title: Bienvenido Diego Garciarebollo Rojas
-  text: 'Dentro '
+  text: 'Dentro de esta experiencia entraras a un tour 360° '
   action:
     label: Find Out More
     url: '#about'
