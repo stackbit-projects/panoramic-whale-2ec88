@@ -6,7 +6,7 @@ header:
     Dentro de esta experiencia entraras a un tour 360° donde conoceras las
     innovaciones de los productos Kimberly Clark
   action:
-    label: Find Out More
+    label: Entrar
     url: '#about'
 sections:
   - type: call-to-action.html
